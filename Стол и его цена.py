@@ -61,5 +61,3 @@ print('Стол -', stol_quantity+stol_quantity2, 'шт, стоимость', st
 
 
 
-
-
